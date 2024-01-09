@@ -91,6 +91,7 @@ header {
 }
 
 .banner-description {
+    color: #474747;
     max-width: 585px;
     min-height: 60px;
     font-size: 18px;
@@ -122,4 +123,13 @@ main {
 
 .about-info {
     text-align: center;
+}
+
+.info-title {
+    color: #474747;
+}
+
+/* what i do section styles */
+#what-i-do-desc {
+    padding: 30px 150px;
 }
